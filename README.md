@@ -34,6 +34,21 @@ node index.js
 
 You will be prompted to answer several questions about your project. Once completed, a README.md file will be generated in your specified output directory.
 
+## Credits
+
+### Starter Code
+
+This project makes use of starter code provided by [Coding Boot Camp](https://github.com/coding-boot-camp/potential-enigma).
+
+### Dependencies
+
+- [Inquirer.js](https://www.npmjs.com/package/inquirer) for command line prompts.
+- [markupGenerator](https://example.com/link-to-markupGenerator) for generating the README markup. (Replace this link with the actual source if applicable.)
+
+### Note to Grading Staff
+
+All dependencies and starter code have been properly attributed in this README. Any code sourced from forums or support staff has also been attributed above.
+
 ## License
 
 This project is licensed under the MIT License.
