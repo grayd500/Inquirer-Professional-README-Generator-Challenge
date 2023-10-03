@@ -69,7 +69,7 @@ npm test
 
 ## Questions
 
-For any questions, please reach out to [@grayd500](https://github.com/grayd500) or send an email to `your-email@example.com`.
+For any questions, please reach out to [@grayd500](https://github.com/grayd500) or send an email to grayd500@gmail.com.
 
 ## Demonstration
 
