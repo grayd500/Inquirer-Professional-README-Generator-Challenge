@@ -1,9 +1,9 @@
-# Wonderful Project
+# Super Project!!
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-It does wonderful things if you use it.
+It's very short.  But it is very super.
 
 
 ## Table of Contents
@@ -16,16 +16,17 @@ It does wonderful things if you use it.
 - [Questions](#questions)
 
 ## Installation
-Download and open from browser.
+Download, install.
 
 
 ## Usage
-For Entertainmet purposes.
+It is for entertainment.
 
 
 ## Badges
-- Badge #1
-- Badge #2
+- badge 1
+- badge 3
+- badge 5
 
 
 ## License
@@ -33,11 +34,11 @@ This project is licensed under the MIT license.
 
 
 ## Contributing
-Fork the repo, request any changes you see fit.
+fork the repo, make additions, request review.
 
 
 ## Tests
-Fork the repo and run tests.
+Run a test if you want.
 
 
 ## Questions
